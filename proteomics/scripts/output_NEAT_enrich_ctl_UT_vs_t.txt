@@ -1,0 +1,3 @@
+[1] "Filtered gene GO sets already exists. Loading\n        goGeneSets.RData from /home/users/gsantamaria/projects/cureMILS/proteomics/cache/"
+[1] "Running NEAT..."
+[1] "NEAT analysis done. proteom_log2_ctrl_UT_vs_d_oplsBestMod_neat.csv saved at /home/users/gsantamaria/projects/cureMILS/proteomics/results/enrichment/NEAT/"

@@ -1,0 +1,6 @@
+Error in loadNamespace(name) : there is no package called ‘BiocManager’
+Calls: :: ... loadNamespace -> withRestarts -> withOneRestart -> doWithOneRestart
+In addition: Warning message:
+In library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE,  :
+  there is no package called ‘org.Hs.eg.db’
+Execution halted

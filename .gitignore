@@ -1,0 +1,9 @@
+proteomics/data/
+proteomics/results/
+proteomics/resultsenrichment/
+proteomics/temp/
+transcriptomics/cache/
+transcriptomics/results/
+transcriptomics/resultsenrichment/
+transcriptomics_2/results/
+transcriptomics_2/packrat/
